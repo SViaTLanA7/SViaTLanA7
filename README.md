@@ -1,8 +1,8 @@
 # Svetlana Sidorenko
 Python Backend Engineer
 
-I design and build backend services, APIs, automation tools, and integrations using modern Python.  
-My work focuses on reliable server-side logic, data processing, and integration with external services.
+I design and build backend services, APIs, automation workflows, and integrations using Python.
+My focus is on server-side logic, data processing, and reliable integration with external systems.
 
 ---
 
@@ -20,12 +20,10 @@ My work focuses on reliable server-side logic, data processing, and integration 
 - SQLite
 
 **Automation & Integrations**
-- API integrations
+- REST API integrations
 - Webhooks
-- Selenium
-- undetected-chromedriver
-- Web scraping
-- Google APIs
+- Google APIs (Sheets, Drive)
+- External service integrations
 
 **Bots & Interfaces**
 - Telegram Bot API
@@ -54,7 +52,7 @@ Backend API for a Telegram Mini App with user profiles and matching logic.
 **Stack:** FastAPI, aiogram, PostgreSQL
 
 ### AI24Garden Backend
-Backend API for automation and integration of e-commerce-related processes.  
+Backend API for automation and integration of business processes.  
 **Stack:** Python, FastAPI, integrations
 
 ---
