@@ -1,54 +1,67 @@
-# Hi, I'm Svetlana 👋  
-**AI Developer · Python Backend Engineer**
+# Svetlana Sidorenko
+Python Backend Engineer
 
-I design and build AI assistants, Telegram bots, backend APIs, automation tools and integrations using modern Python and LLM technologies.
-
----
-
-## ⚡ Tech Stack
-
-**Backend & Core:**  
-Python · FastAPI · AsyncIO · SQLAlchemy · Pydantic · Docker
-
-**AI & LLM:**  
-GPT-4o · OpenRouter · RAG · Prompt Engineering
-
-**Databases:**  
-PostgreSQL · SQLite · Prisma ORM
-
-**Automation:**  
-Selenium · undetected-chromedriver · Web Scraping · API Integrations
-
-**Bots & Integrations:**  
-Telegram Bot API · WebApps · Google Sheets API · CRM · Payment APIs
-
-**DevOps:**  
-Railway · Render · GitHub Actions · Docker
+I design and build backend services, APIs, automation tools, and integrations using modern Python.  
+My work focuses on reliable server-side logic, data processing, and integration with external services.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### **AI24Solutions — GPT Assistant & Automation Bot**  
-AI engine that answers questions, performs tasks, automates workflows and integrates with external APIs.  
-**Stack:** Python, FastAPI, GPT-4o, PostgreSQL, Google API
+**Backend**
+- Python
+- FastAPI
+- AsyncIO
+- SQLAlchemy
+- Pydantic
 
-### **AI Assistant**  
-AI assistant for clinics: booking, classification, patient intake.  
-**Stack:** Python, GPT, Google Sheets, Telegram API
+**Databases**
+- PostgreSQL
+- SQLite
 
-### **AstroConnect WebApp**  
-Telegram Mini App + backend for matching profiles using astrology charts.  
-**Stack:** FastAPI, Aiogram, PostgreSQL
+**Automation & Integrations**
+- API integrations
+- Webhooks
+- Selenium
+- undetected-chromedriver
+- Web scraping
+- Google APIs
 
-### **AI24Garden Backend**  
-Backend API for e-commerce automation & AI modules.  
-**Stack:** FastAPI, integrations, Python
+**Bots & Interfaces**
+- Telegram Bot API
+- Telegram WebApps
+
+**Infrastructure**
+- Docker
+- GitHub Actions
+- Railway
+- Render
 
 ---
 
-## 📫 Contacts
+## Selected Projects
 
-**Telegram:** @sidarenkas  
-**Email:** ssidaren@gmail.com  
-**Website:** https://ai24solutions.ru  
+### AI24Solutions — Backend Services & Automations
+Backend services and integrations for business automation and assistant systems.  
+**Stack:** Python, FastAPI, PostgreSQL, external APIs
+
+### Clinic Assistant Backend
+Backend logic for client intake, booking workflows, and request classification.  
+**Stack:** Python, FastAPI, Google APIs, Telegram Bot API
+
+### AstroConnect WebApp
+Backend API for a Telegram Mini App with user profiles and matching logic.  
+**Stack:** FastAPI, aiogram, PostgreSQL
+
+### AI24Garden Backend
+Backend API for automation and integration of e-commerce-related processes.  
+**Stack:** Python, FastAPI, integrations
+
+---
+
+## Contacts
+
+Telegram: https://t.me/sidarenkas  
+Email: ssidaren@gmail.com  
+Website: https://ai24solutions.ru  
+LinkedIn: https://www.linkedin.com/in/sviatanasidarenka/
