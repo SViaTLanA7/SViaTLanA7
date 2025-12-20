@@ -39,7 +39,7 @@ My focus is on server-side logic, data processing, and reliable integration with
 
 ## Selected Projects
 
-### AI24Solutions — Backend Services & Automations
+### AI24Solutions Backend Services & Automations
 Backend services and integrations for business automation and assistant systems.  
 **Stack:** Python, FastAPI, PostgreSQL, external APIs
 
